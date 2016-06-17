@@ -1,0 +1,2 @@
+http://www.dotnetcurry.com/aspnet/1056/introducing-service-stack-tutorial
+http://rossipedia.com/blog/2013/03/simple-api-key-authentication-with-servicestack/
